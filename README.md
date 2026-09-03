@@ -24,3 +24,9 @@
     </td>
   </tr>
 </table>
+---
+
+### 📥 Download App
+You can download and install the latest APK directly on your Android device:
+
+[<img src="https://img.shields.io/badge/Download_APK-v1.0.0-success?style=for-the-badge&logo=android" height="40"/>](حطي_رابط_ملف_الـAPK_هنا)
